@@ -1,7 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Java Web Development and JavaScript Web Development.    
 
-
 📫 How to reach me: via Email: StanislavTmv@gmail.com  via LinkedIn: Stanislav Temelkov
 <!--
 **StaniTm/StaniTm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
